@@ -1,0 +1,20 @@
+/**
+ * 
+ */
+package com.tcs.model;
+
+/**
+ * @author springuser18
+ *
+ */
+public class CourseCatalog {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

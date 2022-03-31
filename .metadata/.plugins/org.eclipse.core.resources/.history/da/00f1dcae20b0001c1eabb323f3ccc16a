@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package com.tcs.repository;
+
+/**
+ * @author springuser18
+ *
+ */
+public interface PersonRepository {
+
+}

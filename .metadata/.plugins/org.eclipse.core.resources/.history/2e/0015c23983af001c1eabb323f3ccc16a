@@ -1,0 +1,13 @@
+package com.tcs.model;
+/**
+ * 
+ */
+package;
+
+/**
+ * @author springuser18
+ *
+ */
+public class Admin {
+
+}

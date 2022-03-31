@@ -1,0 +1,20 @@
+/**
+ * 
+ */
+package com.tcs.Configuration;
+
+/**
+ * @author springuser18
+ *
+ */
+public class JDBCConnection {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
